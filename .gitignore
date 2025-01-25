@@ -1,0 +1,21 @@
+# Ignorar as pastas do IntelliJ IDEA
+.idea/
+.git/
+
+# Ignorar os diretórios de build do Java
+/target/
+/build/
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar arquivos temporários criados pelo IntelliJ
+*.iml
+
+# Ignorar arquivos temporários gerais
+*.swp
+*.bak
+*.tmp
+
+# Caso tenha front-end, ignore node_modules
+/node_modules/
